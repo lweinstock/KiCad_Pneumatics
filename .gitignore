@@ -1,0 +1,5 @@
+# ignore kicad backups
+*.bak
+
+# ingore MacOS finder settings
+*.DS_Store
